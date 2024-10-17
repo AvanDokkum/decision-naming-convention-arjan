@@ -73,14 +73,14 @@ Repository descriptions should include:
 - **To use this task:** *Clone repository and use the main task file. You may have to comment out the consent (line XYZ) to run the task locally.* 
 
 ### Commit names
-- **Commit names link:** [add link here]
+- [Commit-cheatsheet](commit-cheatsheet.md)
 
 ### Releases
 - (add more)
 
-sources:
-Repositories: https://github.com/GoldenbergLab/naming-and-documentation-conventions
-Commits: https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
-Folders:
-Java: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
+#### Sources
+
+- Repositories: https://github.com/GoldenbergLab/naming-and-documentation-conventions
+- Commits: https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+- Java: https://www.oracle.com/java/technologies/javase/codeconventions-namingconventions.html
 
