@@ -11,6 +11,7 @@
     + [Branch Names](#branch-names)
     + [Descriptions](#descriptions)
     + [Releases](#releases)
+    + [Sources](#sources)
 
 <!-- tocstop -->
 
